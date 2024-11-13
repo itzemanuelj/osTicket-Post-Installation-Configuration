@@ -1,6 +1,6 @@
 ![osTicket](https://i.imgur.com/OMlBqhu.jpeg)
 
-# Creating a Virtual Machine Using Azure
+# osTicket  Post Installation / Configuration
 
 
 ## Prerequisites and Installation
