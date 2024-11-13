@@ -1,6 +1,7 @@
-![osTicket Logo](https://i.imgur.com/OMlBqhu.jpeg)
+![osTicket](https://i.imgur.com/OMlBqhu.jpeg)
 
-# osTicket Post Installation Configuration
+# Creating a Virtual Machine Using Azure
+
 
 ## Prerequisites and Installation
 
@@ -14,10 +15,11 @@ This tutorial outlines the prerequisites and installation steps for
 
 
 ## Operating Systems Used
--  **Lorem** 
--  **Lorem** 
+-  **add** 
+-  **add** 
 
 ## List of Prerequisites
+
 **Lorem**
 -  **Lorem** 
 -  **Lorem** 
@@ -26,13 +28,28 @@ This tutorial outlines the prerequisites and installation steps for
 
 ### Step 1: 
 
+
 1. lorem
- 
 2. lorem
 3. lorem
 &nbsp;
 
-![1]()
-![2]()
 
-### Lorem
+![image]()
+![image]()
+
+### Step 2:    
+
+---
+
+>! For more details, visit the [osTicket](add).
+
+## FAQ
+**Q: Q?**
+A: 
+
+**Q: Q?**
+A: 
+-- -
+## Conclusion
+lorem
